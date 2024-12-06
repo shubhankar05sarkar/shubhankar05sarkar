@@ -1,3 +1,4 @@
+![logo](https://github.com/shubhankar05sarkar/shubhankar05sarkar/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shubhankar Sarkar</h1>
 <h3 align="center">I am a computer science student with a keen interest in exploring the latest technological advancements</h3>
 
