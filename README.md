@@ -1,3 +1,4 @@
+![Header](https://github.com/shubhankar05sarkar/shubhankar05sarkar/blob/d95d68c8cae4c911f5cc3ee82d1b9e324c43817d/Screenshot%202025-04-04%20215507.png)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhankar_sarkar05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhankar-sarkar-2b3b68288/) [![HackerRank](https://img.shields.io/badge/HackerRank-%21E2205F.svg?)](https://www.hackerrank.com/profile/ss6056) [![CodeChef](https://img.shields.io/badge/CodeChef-%234D4D4D.svg?)](https://www.codechef.com/users/basic_sky_59)
 
