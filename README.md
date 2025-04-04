@@ -1,4 +1,4 @@
-![Header](https://github.com/shubhankar05sarkar/shubhankar05sarkar/blob/8b1f57fcdf3e4d3070f170508d53f253474dc22d/github-header-image.png)
+![Header](https://github.com/shubhankar05sarkar/shubhankar05sarkar/blob/5996d9483b23e46c9ed1439e7684ef36f13daa14/github-banner.png)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhankar_sarkar05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhankar-sarkar-2b3b68288/) 
 
