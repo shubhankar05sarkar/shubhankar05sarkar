@@ -48,7 +48,15 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&combine_all_yearly_contributions=true" />
+  <img>
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <img>
+</picture><br/>
