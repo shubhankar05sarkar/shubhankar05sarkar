@@ -19,3 +19,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhankar05sarkar/shubhankar05sarkar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhankar05sarkar/shubhankar05sarkar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shubhankar05sarkar/shubhankar05sarkar/output/github-snake.svg" />
+</picture>
