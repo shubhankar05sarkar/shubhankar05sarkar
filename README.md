@@ -44,8 +44,12 @@
 </picture><br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&theme=radical&no-frame=false&margin-w=4)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&theme=radical&no-frame=false&margin-w=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&no-frame=false&margin-w=4" />
+  <img>
+</picture>
 
 ### 🔝 Top Contributed Repo
 
