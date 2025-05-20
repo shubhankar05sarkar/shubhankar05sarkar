@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false&theme=blue_green" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false&theme=swift" />
   <img>
 </picture><br/>
 <picture>
@@ -29,17 +29,17 @@
 </picture><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankar05sarkar&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankar05sarkar" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankar05sarkar&theme=swift" />
   <img>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar&theme=swift" />
   <img>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=swift" />
   <img>
 </picture><br/>
 
@@ -47,7 +47,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&theme=radical&no-frame=false&margin-w=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&no-frame=false&margin-w=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&no-frame=false&margin-w=4&theme=transparent" />
   <img>
 </picture>
 
@@ -61,6 +61,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift" />
   <img>
 </picture><br/>
