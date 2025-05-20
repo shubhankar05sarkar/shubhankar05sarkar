@@ -19,6 +19,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false&theme=blue_green" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false&theme=blue_green" />
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
