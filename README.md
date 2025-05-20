@@ -55,7 +55,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&combine_all_yearly_contributions=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&combine_all_yearly_contributions=true&theme=swift" />
   <img>
 </picture>
 
