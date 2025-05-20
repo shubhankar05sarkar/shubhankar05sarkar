@@ -12,24 +12,43 @@
 </picture>
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false&theme=blue_green)<br/>
-![](https://github-readme-stats.vercel.app/api?username=shubhankar05sarkar&hide_border=false&include_all_commits=false&count_private=false&theme=merko)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shubhankar05sarkar&theme=dark&hide_border=false)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankar05sarkar&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false&theme=blue_green" />
   <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhankar05sarkar&hide_border=false" />
   <img>
+</picture><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shubhankar05sarkar&hide_border=false&include_all_commits=false&count_private=false&theme=merko" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shubhankar05sarkar&hide_border=false&include_all_commits=false&count_private=false" />
+  <img>
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=shubhankar05sarkar&theme=dark&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=shubhankar05sarkar&hide_border=false" />
+  <img>
+</picture><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankar05sarkar&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankar05sarkar" />
+  <img>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhankar05sarkar" />
+  <img>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhankar05sarkar&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img>
+</picture><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhankar05sarkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubhankar05sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
